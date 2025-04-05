@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently studying computer systems development (systemutvecklare) at Malmö University
 - 🌱 I’m currently learning Java and Spring Boot
-- 🤔 I’m looking for help with your Github profile!
+- 🤔 I’m looking forward to help with your Github profile!
 - 💬 Ask me about Mexican food 🌮🫔
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/priscilla-wettlen/)
 - 😄 Pronouns: She/Her
